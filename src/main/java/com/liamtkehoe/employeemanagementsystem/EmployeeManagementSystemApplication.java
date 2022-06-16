@@ -1,3 +1,7 @@
+/**
+ * @author liamkehoe
+ * @version 1.0
+ */
 package com.liamtkehoe.employeemanagementsystem;
 
 import org.springframework.boot.SpringApplication;
